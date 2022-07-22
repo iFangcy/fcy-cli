@@ -1,6 +1,6 @@
 {
   "name": "@fcy-cli/core",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "fcy-cli core",
   "author": "iFangcy <ifangcy@foxmail.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@fcy-cli/utils": "^1.0.1"
+    "@fcy-cli/utils": "^2.0.0"
   },
   "publishConfig": {
     "access": "public"
