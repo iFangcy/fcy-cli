@@ -1,6 +1,6 @@
 {
   "name": "@fcy-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fcy-cli core",
   "author": "iFangcy <ifangcy@foxmail.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@fcy-cli/utils": "^1.0.0"
+    "@fcy-cli/utils": "^1.0.1"
   }
-} 
+}
